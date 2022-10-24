@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **wjandrea/wjandrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+*Je parle un peu de français.*
+
+Pronouns: he/him
+
+My profile picture is the flag of Nova Scotia but with Saint Andrew's Cross (also used by the Russian Navy) replaced with the flag of Ukraine. *Нет войне.*
