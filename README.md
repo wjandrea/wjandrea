@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Pronouns: he/him
-
 I speak a bit of French. *Je parle un peu de français.*
 
 My profile picture is the flag of Nova Scotia but with Saint Andrew's Cross (also used by the Russian Navy) replaced with the flag of Ukraine. *Нет войне.*
