@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I speak a bit of French. *Je parle un peu de français.*
+* Languages: English (native), French (intermediate)
